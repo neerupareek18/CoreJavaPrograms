@@ -1,4 +1,4 @@
-package PracticePrograms;
+package PracticePrograms_15072024;
 
 public class Lab001 {
     public static void main(String[] args) {
@@ -21,17 +21,21 @@ public class Lab001 {
         %d for int
         %f for float, double
         %s for char and string
+        %c for char
+        %b for boolean
          */
         int i=10;
         float f = 10.09f;
         char c = '9';
         String s = "Neeru";
+        boolean b = true;
 
         System.out.printf("%d\n",i);
        System.out.printf("%f\n",f);
         System.out.printf("%s\n",c);
+        System.out.printf("%c",c);
         System.out.printf("%s",s);
-        //implicit casting does not work for %d, f, s -- it is used tightly for the respective data types
-
+        System.out.printf("%b",b);
+        //%s and %c can be used for char
             }
 }

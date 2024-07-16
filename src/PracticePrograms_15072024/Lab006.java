@@ -1,4 +1,4 @@
-package PracticePrograms;
+package PracticePrograms_15072024;
 
 public class Lab006 {
     //Valid class names:

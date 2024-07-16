@@ -1,4 +1,4 @@
-package PracticePrograms;
+package PracticePrograms_15072024;
 
 public class Lab004 {
         static public void main(String Neeru[]) {
