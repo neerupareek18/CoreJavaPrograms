@@ -1,8 +1,6 @@
 package PracticePrograms_16072024;
 
-import java.lang.reflect.Array;
-
-public class Lab039 {
+public class Lab039MaxMinWithForLoop {
     public static void main(String[] args) {
         //largest in 3 numbers
         int a1[] = {-10, -15, -20};

@@ -2,7 +2,7 @@ package PracticePrograms_16072024;
 
 import java.util.Scanner;
 
-public class Lab036 {
+public class Lab036_GradeCalculator {
     public static void main(String[] args) {
         //Grade Cal:
         /*

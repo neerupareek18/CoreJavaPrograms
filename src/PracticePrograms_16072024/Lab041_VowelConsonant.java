@@ -1,7 +1,7 @@
 package PracticePrograms_16072024;
 import java.util.Scanner;
 
-public class Lab041 {
+public class Lab041_VowelConsonant {
     public static void main(String[] args) {
         //Vowel or consonant
         char c[] = {'A','a','E','e','I','i','O','o','U','u'};
@@ -17,9 +17,8 @@ public class Lab041 {
                flag = 1;
                break;
            }
-            loop++;
-           System.out.println(loop);    //---- For input 'a', loop should be 2, why is it showing 1
-
+           loop++;
+            System.out.println(loop);
 
         }
         if(flag==0){

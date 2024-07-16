@@ -2,7 +2,7 @@ package PracticePrograms_16072024;
 
 import java.util.Scanner;
 
-public class Lab037 {
+public class Lab037_TypeOfTriangle {
     public static void main(String[] args) {
         //Type of triangle
         /*

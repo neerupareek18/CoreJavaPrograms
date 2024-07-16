@@ -1,6 +1,6 @@
 package PracticePrograms_16072024;
 
-public class Lab040 {
+public class Lab040_MInMaxWithIfElse {
     public static void main(String[] args) {
         //Largest of 3 numbers -- using if - else condition
         int a= 50;

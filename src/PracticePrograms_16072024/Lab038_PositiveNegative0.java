@@ -1,6 +1,6 @@
 package PracticePrograms_16072024;
 import java.util.Scanner;
-public class Lab038 {
+public class Lab038_PositiveNegative0 {
     public static void main(String[] args) {
         //Positive, Negative or 0
         Scanner s = new Scanner(System.in);
