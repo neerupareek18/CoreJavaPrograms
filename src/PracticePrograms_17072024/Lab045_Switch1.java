@@ -1,4 +1,4 @@
-package PracticePrograms_16072024;
+package PracticePrograms_17072024;
 
 import java.util.Scanner;
 
