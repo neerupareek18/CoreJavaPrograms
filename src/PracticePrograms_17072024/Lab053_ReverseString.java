@@ -13,5 +13,14 @@ public class Lab053_ReverseString {
 
         for (int k=0;k<a.length;k++)
             System.out.print(a[k]);
+        //-------------------------------------------------------------------------
+        //This worked
+        String   ss = "Neeru";
+        System.out.println(s==ss);
+        String rev = "";
+        for (int i =ss.length()-1; i>=0;i--){
+            rev = rev+ss.charAt(i);
+        }
+        System.out.println(rev);
     }
 }
