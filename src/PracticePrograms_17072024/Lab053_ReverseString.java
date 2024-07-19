@@ -1,5 +1,5 @@
 package PracticePrograms_17072024;
-
+//Not Done
 public class Lab053_ReverseString {
     public static void main(String[] args) {
         String s = "Neeru";
@@ -12,6 +12,6 @@ public class Lab053_ReverseString {
         }
 
         for (int k=0;k<a.length;k++)
-            System.out.println(a[k]);
+            System.out.print(a[k]);
     }
 }
