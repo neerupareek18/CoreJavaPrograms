@@ -14,7 +14,8 @@ public class Lab036_GradeCalculator {
          */
         System.out.println("Enter your Name:");
         Scanner s = new Scanner(System.in);
-        String c = s.next();
+        String c = s.next();   //s.nextline() -- it will return the whole string
+        //s.next() == return only one word
         System.out.println("Enter your marks");
         Scanner s1 = new Scanner(System.in);
         int i = s1.nextInt();
