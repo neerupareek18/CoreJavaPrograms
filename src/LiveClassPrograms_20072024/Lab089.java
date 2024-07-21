@@ -49,4 +49,8 @@ public class Lab089 {
         return 1;     //--------------Takes it as the ASCII code
     }
 
+    static void _bhk(){ ////Name as 2bhk not allowed --- starting from number
+
+    }
+
 }

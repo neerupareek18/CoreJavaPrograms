@@ -11,4 +11,6 @@ if(i%2==0){
         }
     }
 
+    //we can use break and continue in one loop
+
 }
