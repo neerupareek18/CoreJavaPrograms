@@ -1,7 +1,5 @@
 package LiveClassPrograms_20072024;
 
-import javax.swing.*;
-
 public class Lab068 {
     public static void main(String[] args) {
         //Conditions and Loops

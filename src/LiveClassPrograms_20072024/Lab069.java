@@ -1,5 +1,4 @@
 package LiveClassPrograms_20072024;
-import java.util.Scanner;
 
 //Java.lang package is by default be added in every program
 

@@ -12,6 +12,7 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
 
         for (int i=1; i<=100; i++){
             if (i%3==0&&i%5==0) System.out.println(i+"-->FizzBuzz");
+            //maximum condition should always be at the top
             else if (i%3==0&&i%5!=0) System.out.println(i+"-->Fizz");
             else if (i%3!=0&&i%5==0) System.out.println(i+"-->Buzz");
             else System.out.println(i);
