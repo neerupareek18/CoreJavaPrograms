@@ -1,5 +1,6 @@
 package SelfPacedEx_24072024;
 
+import java.util.Enumeration;
 import java.util.Vector;
 
 public class Lab103_Vector {
@@ -20,6 +21,12 @@ public class Lab103_Vector {
         //We don not use the object which is thread safe as they are slow (mostly)
 
         //Vector is a legacy class -- obsolete
+
+        //To print the Vecotrs, we need to use Enumerator
+        Enumeration e = v.elements();
+        while(e.hasMoreElements()){
+            System.out.println(e.nextElement());
+        }
 
     }
 }

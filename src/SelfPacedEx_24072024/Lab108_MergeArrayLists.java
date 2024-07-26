@@ -12,5 +12,12 @@ public class Lab108_MergeArrayLists {
         List mergelist = new ArrayList(l1);
         mergelist.addAll(l2);
         System.out.println(mergelist);
+
+        //or if we want to change the original list itself:
+        l1.addAll(l2);
+        System.out.println(l1);
+
+        //when no data type constarint is given, it takes 'Object', that is why we can addAll l2 objection elements
+
     }
 }

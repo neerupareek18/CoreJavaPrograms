@@ -1,6 +1,6 @@
 package PracticePrograms_20072024;
 
-public class Lab080_ReverseNumber_Palindrome_NotWorkingForEnd0 {
+public class Lab080_ReverseNumber_Palindrome {
     public static void main(String[] args) {
         int i = 17670;
         //if int i = 07670 ----- it is the Octal code of decimal number
